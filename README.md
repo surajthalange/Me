@@ -7,7 +7,7 @@ TL;DR?
 
 ## Hello world! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
- I am a full-stack web developer🧑‍💻 and digital craftsman🪄, I am passionate about building my version of the digital world one step at a time. I love it so much that I made a career out of it. With a background in Bsc Computer Science and a keen interest in software, I have honed my skills in Frontend as well as in Backend too and on the other hand PHP and Moodle development too.
+ Meet the digital virtuoso 🧑‍💻🪄! A full-stack web developer with a passion for crafting the digital world one step at a time. With a keen interest in software, I've honed my skills in both Frontend and Backend development. But that's not all – I'm also adept in PHP and Moodle development, bringing my expertise to e-learning platforms. Building the future of the web is not just a career for me; it's a lifelong love affair with technology and innovation. Get ready to be dazzled by my creativity and dedication to making the virtual universe a better place! 🚀✨
 
 
 ### 🧰 Languages and Tools
